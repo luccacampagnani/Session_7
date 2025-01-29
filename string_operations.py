@@ -6,4 +6,4 @@ print("hello")
 s1 = "hello"
 s2 = 4*s1 # you can only multiply by positive integer!!
 print(s2)
-print((4//2)*s1) # 4/2 is not an integer, so you use //
+print((4//2)*s1) # integer division, result will always be an integer, so you use //
